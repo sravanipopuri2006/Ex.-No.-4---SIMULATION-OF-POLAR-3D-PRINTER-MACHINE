@@ -29,13 +29,10 @@
 ## Output:
 
 
-
-<img width="371" alt="k1" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/f99a6206-aedc-42bf-b9e6-0c0909ad4ed5">
-<img width="371" alt="k1" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/50a326bc-2331-4ffc-b972-cac42b24eded">
+<img width="371" alt="z1" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/4b790f66-4ecd-42c8-a039-a868b7ef7469">
 
 
-                  
-<img width="334" alt="f2" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/2e3ee440-f1bc-44c3-be16-3d46eb2ceeca">
+
 
 
 
