@@ -29,7 +29,7 @@
 ## Output:
 
 
-<img width="371" alt="z1" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/4b790f66-4ecd-42c8-a039-a868b7ef7469">
+!<img width="371" alt="z1" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/4b790f66-4ecd-42c8-a039-a868b7ef7469">
 
 
 
