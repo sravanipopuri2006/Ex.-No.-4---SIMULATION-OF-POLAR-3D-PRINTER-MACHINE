@@ -29,8 +29,6 @@
 ## Output:
 <img width="306" alt="sr1" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/28c50965-9d48-4aa9-8b4c-392f472fb4d2">
 
-
-
 <img width="297" alt="sr2" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/3d007b3d-0e2e-4789-8029-bb23fa398bb8">
 
 ### Name: POPURI SRAVANI
