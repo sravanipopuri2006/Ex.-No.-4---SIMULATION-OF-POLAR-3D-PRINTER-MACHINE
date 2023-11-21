@@ -26,15 +26,16 @@
 ### 3.	Move the z-axis slider and observe the movement of the z-axis assembly.
 
 ## OUTPUT:
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
-
 ## Output:
+<img width="306" alt="sr1" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/28c50965-9d48-4aa9-8b4c-392f472fb4d2">
 
-### Name:
-### Register Number:
+
+
+<img width="297" alt="sr2" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/3d007b3d-0e2e-4789-8029-bb23fa398bb8">
+
+### Name: POPURI SRAVANI
+### Register Number: 23006561
+
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
