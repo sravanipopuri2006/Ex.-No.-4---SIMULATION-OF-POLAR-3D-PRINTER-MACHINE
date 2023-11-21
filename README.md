@@ -31,16 +31,13 @@
 
 
 
+![i1](https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/37c3ae8d-02de-457d-92f3-2127e3fb9a3e)
+![i2](https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/8bee9455-d31f-4324-997a-ac1c9ef76f20)
 
-<img width="331" alt="f1" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/6350c10f-737f-491c-9c92-f802873f6a9b">
-<img width="331" alt="f1" src="https://github.com/sravanipopuri2006/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/139778301/9863a467-56db-4a29-9666-92f7fb0c65df">
-
-
-
+### Register Number: 23006561
 
 ### Name: POPURI SRAVANI
 
-### Register Number: 23006561
 
 
 ## Result: 
